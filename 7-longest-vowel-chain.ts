@@ -5,7 +5,7 @@
 
 export function solve(s: string) {
     // setting up test string for loop to iterate through
-    let testString: string = "ahaaa";
+    let testString: string = s;
     // setting up variable to track current number of sequential vowels in string
     let tempTracker: number = 0;
     // setting up variable to track highest number of sequential vowels in string
