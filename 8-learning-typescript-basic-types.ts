@@ -59,3 +59,9 @@ export var var13Null: null = null;
 export var var14Undefined: undefined = undefined;
 
 export function var15NeverFunction(): never {throw new Error('')};
+
+// Hello World function:
+
+export function greet(): string {
+    return "hello world!";
+  }
